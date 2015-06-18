@@ -1,0 +1,6 @@
+Commands:
+
+git status -- list the changes
+git add. -- add all the changes to a changelist
+git commit -m "description" -- submit the changes to local reposity
+git push original master -- push the changes to remote server(website db)
